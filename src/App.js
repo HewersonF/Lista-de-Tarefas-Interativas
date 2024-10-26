@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Lista de Tarefa</h1>
+      <h1>Lista de Tarefas</h1>
       <FormularioTarefa adicionarTarefa={adicionarTarefa} />
       <ListaTarefas 
         tarefas={tarefas} 
